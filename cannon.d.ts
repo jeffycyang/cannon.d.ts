@@ -616,7 +616,7 @@
         invInertiaWorld: Mat3;
         invMassSolve: number;
         invInertiaSolve: Vec3;
-        invInteriaWorldSolve: Mat3;
+        invInertiaWorldSolve: Mat3;
         fixedRotation: boolean;
         angularDamping: number;
         aabb: AABB;
